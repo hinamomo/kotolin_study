@@ -4,8 +4,8 @@
 package sample
 
 fun main(args: Array<String>){
-    val userName: String ="たろう"
-    val userAge: Int = 28
+    val userName: String ="はなこ"
+    val userAge: Int = 26
     println("${userName}さんは${userAge}歳です")
 
 }
